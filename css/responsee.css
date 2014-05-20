@@ -12,7 +12,7 @@ body {
   color:#444;
   }
   
-header h1.logo a{
+header .logo a{
 	color:#fff;
 }
 header div.box{
