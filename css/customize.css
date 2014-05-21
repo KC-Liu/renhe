@@ -1,0 +1,16 @@
+
+header .logo a{
+	color:#fff;
+}
+header div.box{
+	  background: -webkit-linear-gradient(#900, #262626); /* For Safari 5.1 to 6.0 */
+	  background: -o-linear-gradient(#900, #262626); /* For Opera 11.1 to 12.0 */
+	  background: -moz-linear-gradient(#900, #262626); /* For Firefox 3.6 to 15 */
+	  background: linear-gradient(#900, #262626); /* Standard syntax */
+}
+footer div.box{
+	background:#262626;
+}
+footer p{
+	color:#fff;
+}
